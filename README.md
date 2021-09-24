@@ -1,8 +1,47 @@
 # color_palette
  color_palette
 
+ ![#FFD92F](https://placehold.it/150x40/#FFD92F/FFFFFF?text=#FFD92F)
+![#4DAF4A](https://placehold.it/150x40/#4DAF4A/FFFFFF?text=#4DAF4A)
+![#FCCDE5](https://placehold.it/150x40/#FCCDE5/FFFFFF?text=#FCCDE5)
+![#D9D9D9](https://placehold.it/150x40/#D9D9D9/FFFFFF?text=#D9D9D9)
+![#7FC97F](https://placehold.it/150x40/#7FC97F/FFFFFF?text=#7FC97F)
+![#BEAED4](https://placehold.it/150x40/#BEAED4/FFFFFF?text=#BEAED4)
+![#FDC086](https://placehold.it/150x40/#FDC086/FFFFFF?text=#FDC086)
+![#FFFF99](https://placehold.it/150x40/#FFFF99/FFFFFF?text=#FFFF99)
+![#386CB0](https://placehold.it/150x40/#386CB0/FFFFFF?text=#386CB0)
+![#F0027F](https://placehold.it/150x40/#F0027F/FFFFFF?text=#F0027F)
+![#BF5B17](https://placehold.it/150x40/#BF5B17/FFFFFF?text=#BF5B17)
+![#666666](https://placehold.it/150x40/#666666/FFFFFF?text=#666666)
+![#1B9E77](https://placehold.it/150x40/#1B9E77/FFFFFF?text=#1B9E77)
+![#D95F02](https://placehold.it/150x40/#D95F02/FFFFFF?text=#D95F02)
+![#7570B3](https://placehold.it/150x40/#7570B3/FFFFFF?text=#7570B3)
+![#ed5ca6](https://placehold.it/150x40/#ed5ca6/FFFFFF?text=#ed5ca6)
+![#66A61E](https://placehold.it/150x40/#66A61E/FFFFFF?text=#66A61E)
+![#E6AB02](https://placehold.it/150x40/#E6AB02/FFFFFF?text=#E6AB02)
+![#A6761D](https://placehold.it/150x40/#A6761D/FFFFFF?text=#A6761D)
+![#1f77b4](https://placehold.it/150x40/#1f77b4/FFFFFF?text=#1f77b4)
+![#aec7e8](https://placehold.it/150x40/#aec7e8/FFFFFF?text=#aec7e8)
+![#ff7f0e](https://placehold.it/150x40/#ff7f0e/FFFFFF?text=#ff7f0e)
+![#50e3c2](https://placehold.it/150x40/#50e3c2/FFFFFF?text=#50e3c2)
+![#b5e6b5](https://placehold.it/150x40/#b5e6b5/FFFFFF?text=#b5e6b5)
+![#98df8a](https://placehold.it/150x40/#98df8a/FFFFFF?text=#98df8a)
+![#d62728](https://placehold.it/150x40/#d62728/FFFFFF?text=#d62728)
+![#ff9896](https://placehold.it/150x40/#ff9896/FFFFFF?text=#ff9896)
+![#9467bd](https://placehold.it/150x40/#9467bd/FFFFFF?text=#9467bd)
+![#c5b0d5](https://placehold.it/150x40/#c5b0d5/FFFFFF?text=#c5b0d5)
+![#8c564b](https://placehold.it/150x40/#8c564b/FFFFFF?text=#8c564b)
+![#c49c94](https://placehold.it/150x40/#c49c94/FFFFFF?text=#c49c94)
+![#e377c2](https://placehold.it/150x40/#e377c2/FFFFFF?text=#e377c2)
+![#f7b6d2](https://placehold.it/150x40/#f7b6d2/FFFFFF?text=#f7b6d2)
+![#7f7f7f](https://placehold.it/150x40/#7f7f7f/FFFFFF?text=#7f7f7f)
+![#c7c7c7](https://placehold.it/150x40/#c7c7c7/FFFFFF?text=#c7c7c7)
+![#bcbd22](https://placehold.it/150x40/#bcbd22/FFFFFF?text=#bcbd22)
+![#dbdb8d](https://placehold.it/150x40/#dbdb8d/FFFFFF?text=#dbdb8d)
+![#17becf](https://placehold.it/150x40/#17becf/FFFFFF?text=#17becf)
+![#9edae5](https://placehold.it/150x40/#9edae5/FFFFFF?text=#9edae5)
+
 "#FFD92F","#4DAF4A","#FCCDE5","#D9D9D9","#7FC97F","#BEAED4",
 "#FDC086","#FFFF99","#386CB0","#F0027F","#BF5B17","#666666","#1B9E77","#D95F02",
 "#7570B3","#ed5ca6","#66A61E","#E6AB02","#A6761D", '#1f77b4',  '#aec7e8', '#ff7f0e', '#50e3c2', '#b5e6b5', '#98df8a', '#d62728', '#ff9896', '#9467bd',
 '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5'
-
