@@ -1,7 +1,7 @@
 # color_palette
  color_palette
 
- ![colors](color palette.png)
+ ![colors]('color_palette.png')
 
 "#FFD92F","#4DAF4A","#FCCDE5","#D9D9D9","#7FC97F","#BEAED4",
 "#FDC086","#FFFF99","#386CB0","#F0027F","#BF5B17","#666666","#1B9E77","#D95F02",
