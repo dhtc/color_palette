@@ -7,3 +7,7 @@
 "#BF5B17","#666666","#1B9E77","#D95F02","#7570B3","#ed5ca6","#66A61E","#E6AB02","#A6761D", '#1f77b4',  
 '#aec7e8', '#ff7f0e', '#50e3c2', '#b5e6b5', '#98df8a', '#d62728', '#ff9896', '#9467bd','#c5b0d5', '#8c564b', 
 '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5'
+
+
+scale_fill_gradientn(colours = c('#c5c1a6', '#cecf83', '#e0de67', '#f0e555', '#dd683d', '#c53437', '#792729'), values = c(0, 0.2, 0.4, 0.5, 0.6, 0.8, 1))
+scale_color_gradientn(colours = c('#c5c1a6', '#cecf83', '#e0de67', '#f0e555', '#dd683d', '#c53437', '#792729'), values = c(0, 0.2, 0.4, 0.5, 0.6, 0.8, 1))
