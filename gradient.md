@@ -32,3 +32,8 @@ color_map_dict = list(colors = c('#babab7',
                      values = 1:256/256)
 scale_color_gradientn(colours = color_map_dict$colors, values = color_map_dict$values, na.value = 'lightgrey')                     
 ```
+
+```R
+# grey - darkred
+scale_color_gradientn(colours = colorRampPalette(c('#d9d9d9', '#A50F15', '#67000D'))(9), guide = guide_colorbar(label = F))
+```
