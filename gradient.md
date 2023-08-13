@@ -8,6 +8,12 @@ scale_color_gradientn(colors = c('#d9d9d9', '#FFF5F4', '#CD2626'))
 ```
 
 ```R
+# Baby blue - dark red
+scale_color_gradientn(colors = c('#b2d6e5', '#f9dfcd', '#790726'))
+```
+
+
+```R
 # grey - red
 color_map_dict = list(colors = c('#babab7',
  '#bbbbb5', '#bbbbb4', '#bcbcb2', '#bcbcb1', '#bdbdaf', '#bdbdae', '#bebeac', '#bebeaa', '#bfbfa9', '#bfbfa7', '#c0c0a6', '#c0c0a4', '#c1c1a3', '#c1c1a1',
