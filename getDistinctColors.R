@@ -4,7 +4,8 @@ getDistinctColors <- function(n) {
   if(n < 1) stop('Error in getDistinctColors: number of colors wanted must be at least 1')
 
   qual_col_pals <- RColorBrewer::brewer.pal.info[RColorBrewer::brewer.pal.info$category == 'qual',]
-  col_vector <- unique(unlist(mapply(RColorBrewer::brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals))));
+  col_vector <- unique(unlist(mapply(RColorBrewer::brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals))))
+  col_vector = setdiff(col_vector, c('#666666', '#CCCCCC', '#999999', '#B3B3B3', '#D9D9D9'))
 
   if(n > length(col_vector)) {
 
